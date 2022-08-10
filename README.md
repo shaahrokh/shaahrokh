@@ -3,7 +3,7 @@
 
 Software Engineer at Pasargad Bank 🌱😄
 
-Linux :penguin: / PHP :elephant: /  Golang 
+Linux :penguin: / PHP <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp; /  Golang 
 
 [linkedin](https://www.linkedin.com/in/shahrokhmoghimi/)
 
