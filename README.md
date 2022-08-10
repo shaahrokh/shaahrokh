@@ -1,7 +1,7 @@
 ### Hey 👋
 
 
-Software Engineer at Pasargad Bank 🌱😄
+I'm a Software Engineer at Pasargad Bank 🌱😄
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 
